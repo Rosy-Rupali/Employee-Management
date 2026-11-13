@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+src/main/resources/application.properties
+# Smart Tomcat
+.smarttomcat/
+# OS files
+.DS_Store
+Thumbs.db
